@@ -7,7 +7,7 @@ import NeonText from "@/components/neon-text"
 
 export default function BirthdayLandingPage() {
   const [showFireworks, setShowFireworks] = useState(false)
-  const name = "Alaska" // Hardcoded name - change this to your preferred name
+  const name = "Sunil" // Hardcoded name - change this to your preferred name
 
   useEffect(() => {
     // Show fireworks after a short delay when the page loads
